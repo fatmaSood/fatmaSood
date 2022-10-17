@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fatmaSood
-- 👀 I’m interested in Programmin
+- 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me bint.rashid.520@gmail.com
+- 📫 How to reach me fsood53@gmail.com
 
 <!---
 fatmaSood/fatmaSood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
